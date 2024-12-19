@@ -36,6 +36,7 @@ This project provides various functionalities to add, update, delete, and sort b
 
 <br><h4>Technologies Used</h4><br>
 Language: C
+
 Data Structures: Arrays and file handling for persistent storage.
 
 <br><h4>How to Use</h4><br>
