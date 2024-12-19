@@ -1,14 +1,14 @@
 # BookManagementSystem-usig_c
 
 
-*****************************  Book Management System  *****************************
+<h2>Book Management System </h2>
 
 The Book Management System is a simple and efficient program developed in C to manage and organize a collection of books. 
 This project provides various functionalities to add, update, delete, and sort books, making it a practical solution for small libraries or personal book collections.
 
 
 <br>
---- Features ---
+<h5>--- Features ---</h5>
 
 1.Add a Book
   - Add a new book with details like name, author, price, rating, and category.
@@ -40,7 +40,7 @@ This project provides various functionalities to add, update, delete, and sort b
 <br>
 
 
---- Technologies Used ---
+<h5>--- Technologies Used ---</h5>
 
 Language: C
 Data Structures: Arrays and file handling for persistent storage.
@@ -48,7 +48,7 @@ Data Structures: Arrays and file handling for persistent storage.
 
 
 <br>
---- How to Use ---
+<h5>--- How to Use ---</h5>
 
 1.Clone the repository.
 
