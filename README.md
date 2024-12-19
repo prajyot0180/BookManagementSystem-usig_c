@@ -7,7 +7,7 @@ The Book Management System is a simple and efficient program developed in C to m
 This project provides various functionalities to add, update, delete, and sort books, making it a practical solution for small libraries or personal book collections.
 
 
-
+<br>
 --- Features ---
 
 1.Add a Book
@@ -37,7 +37,7 @@ This project provides various functionalities to add, update, delete, and sort b
 9.Display All Books
   - View a complete list of all books in the collection.
 
-
+<br>
 
 
 --- Technologies Used ---
@@ -47,7 +47,7 @@ Data Structures: Arrays and file handling for persistent storage.
 
 
 
-
+<br>
 --- How to Use ---
 
 1.Clone the repository.
