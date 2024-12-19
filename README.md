@@ -8,7 +8,7 @@ This project provides various functionalities to add, update, delete, and sort b
 
 
 <br>
-<h4>--- Features ---</h4>
+<h3>Features</h3>
 
 1.Add a Book
   - Add a new book with details like name, author, price, rating, and category.
